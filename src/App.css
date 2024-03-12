@@ -1,0 +1,11 @@
+.app{
+    background-color: #073138;
+    color: white;
+}
+
+.container_resident{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5em;
+}
